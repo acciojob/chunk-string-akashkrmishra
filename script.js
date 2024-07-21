@@ -1,6 +1,6 @@
 function stringChop(str, size) {
   // your code here
-	if(str==null)return [];
+	// if(str==null)return [];
 	size=Number(size);
       let startingIdx=0;
       let endingIdx=size;
